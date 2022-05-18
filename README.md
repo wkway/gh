@@ -1,5 +1,5 @@
 
-###  2022-05-18T06:39:02+08:00
+###  2022-05-18T11:43:30+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.25                 alive.github.com
@@ -11,7 +11,7 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.113.3                  gist.github.com
+140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 140.82.112.3                  github.com
 192.0.66.2                    github.blog
@@ -28,7 +28,7 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.112.10                 codeload.github.com
-52.217.70.132                 github-cloud.s3.amazonaws.com
+52.216.88.147                 github-cloud.s3.amazonaws.com
 52.216.100.147                github-com.s3.amazonaws.com
 52.217.105.68                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.0.220                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -36,7 +36,7 @@
 185.199.108.153               githubstatus.com
 64.71.144.211                 github.community
 23.100.27.125                 github.dev
-140.82.113.21                 collector.github.com
+140.82.112.22                 collector.github.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
@@ -44,9 +44,9 @@
 185.199.108.153               documentcloud.github.com
 185.199.108.133               gist.githubusercontent.com
 185.199.108.154               github.githubassets.com
-140.82.114.17                 help.github.com
+140.82.113.17                 help.github.com
 140.82.113.9                  nodeload.github.com
-140.82.114.17                 status.github.com
+140.82.113.18                 status.github.com
 185.199.108.153               training.github.com
 185.199.108.133               avatars6.githubusercontent.com
 185.199.108.133               avatars7.githubusercontent.com
