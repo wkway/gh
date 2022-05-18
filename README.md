@@ -1,5 +1,5 @@
 
-###  2022-05-18T16:45:49+08:00
+###  2022-05-18T18:40:56+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.25                 alive.github.com
@@ -46,7 +46,7 @@
 185.199.108.154               github.githubassets.com
 140.82.113.17                 help.github.com
 140.82.114.9                  nodeload.github.com
-140.82.113.18                 status.github.com
+140.82.113.17                 status.github.com
 185.199.108.153               training.github.com
 185.199.108.133               avatars6.githubusercontent.com
 185.199.108.133               avatars7.githubusercontent.com
