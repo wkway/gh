@@ -1,9 +1,9 @@
 
-###  2022-05-26T14:22:15+08:00
+###  2022-05-26T16:23:46+08:00
 ```bash
 # GitHubHosts Start
-140.82.113.26                 alive.github.com
-140.82.114.25                 live.github.com
+140.82.113.25                 alive.github.com
+140.82.113.25                 live.github.com
 185.199.108.154               github.githubassets.com
 140.82.113.21                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
@@ -15,7 +15,7 @@
 185.199.108.153               github.io
 140.82.113.4                  github.com
 192.0.66.2                    github.blog
-140.82.114.6                  api.github.com
+140.82.112.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               raw.github.com
 185.199.108.133               user-images.githubusercontent.com
@@ -28,7 +28,7 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.114.9                  codeload.github.com
-52.216.37.41                  github-cloud.s3.amazonaws.com
+52.217.193.225                github-cloud.s3.amazonaws.com
 54.231.132.25                 github-com.s3.amazonaws.com
 52.217.1.76                   github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.203.169                github-production-user-asset-6210df.s3.amazonaws.com
@@ -44,9 +44,9 @@
 185.199.108.153               documentcloud.github.com
 185.199.108.133               gist.githubusercontent.com
 185.199.108.154               github.githubassets.com
-140.82.113.18                 help.github.com
-140.82.112.10                 nodeload.github.com
-140.82.112.18                 status.github.com
+140.82.113.17                 help.github.com
+140.82.113.9                  nodeload.github.com
+140.82.113.17                 status.github.com
 185.199.108.153               training.github.com
 185.199.108.133               avatars6.githubusercontent.com
 185.199.108.133               avatars7.githubusercontent.com
