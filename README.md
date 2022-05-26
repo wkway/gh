@@ -1,5 +1,5 @@
 
-###  2022-05-26T09:38:05+08:00
+###  2022-05-26T11:24:21+08:00
 ```bash
 # GitHubHosts Start
 140.82.113.26                 alive.github.com
@@ -13,7 +13,7 @@
 199.232.69.194                github.global.ssl.fastly.net
 140.82.113.3                  gist.github.com
 185.199.108.153               github.io
-140.82.112.3                  github.com
+140.82.113.4                  github.com
 192.0.66.2                    github.blog
 140.82.114.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
@@ -35,7 +35,7 @@
 52.216.241.132                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.211                 github.community
-40.68.78.177                  github.dev
+23.100.27.125                 github.dev
 140.82.113.21                 collector.github.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
@@ -55,7 +55,7 @@
 185.199.108.153               customer-stories-feed.github.com
 185.199.108.153               pages.github.com
 140.82.112.29                 githubapp.com
-140.82.112.3                  github.com
+140.82.113.4                  github.com
 
 # GitHubHosts End
 
