@@ -1,5 +1,5 @@
 
-###  2022-06-13T09:41:36+08:00
+###  2022-06-13T11:36:07+08:00
 ```bash
 # GitHubHosts Start
 140.82.112.26                 alive.github.com
@@ -27,8 +27,8 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.9                  codeload.github.com
-54.231.169.97                 github-cloud.s3.amazonaws.com
+140.82.114.10                 codeload.github.com
+52.216.143.68                 github-cloud.s3.amazonaws.com
 54.231.228.105                github-com.s3.amazonaws.com
 52.217.197.65                 github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.137.105                github-production-user-asset-6210df.s3.amazonaws.com
