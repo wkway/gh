@@ -1,5 +1,5 @@
 
-###  2022-07-05T06:16:04+08:00
+###  2022-07-05T11:43:31+08:00
 ```bash
 # GitHubHosts Start
 140.82.113.26                 alive.github.com
@@ -11,9 +11,9 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.114.4                  gist.github.com
+140.82.113.4                  gist.github.com
 185.199.108.153               github.io
-140.82.113.3                  github.com
+140.82.112.4                  github.com
 192.0.66.2                    github.blog
 140.82.112.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
@@ -28,7 +28,7 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.113.10                 codeload.github.com
-52.216.8.227                  github-cloud.s3.amazonaws.com
+52.217.198.49                 github-cloud.s3.amazonaws.com
 52.217.110.172                github-com.s3.amazonaws.com
 52.217.95.17                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.140.204                github-production-user-asset-6210df.s3.amazonaws.com
@@ -45,8 +45,8 @@
 185.199.108.133               gist.githubusercontent.com
 185.199.108.154               github.githubassets.com
 140.82.114.18                 help.github.com
-140.82.113.10                 nodeload.github.com
-140.82.113.17                 status.github.com
+140.82.114.10                 nodeload.github.com
+140.82.112.18                 status.github.com
 185.199.108.153               training.github.com
 185.199.108.133               avatars6.githubusercontent.com
 185.199.108.133               avatars7.githubusercontent.com
@@ -55,7 +55,7 @@
 185.199.108.153               customer-stories-feed.github.com
 185.199.108.153               pages.github.com
 140.82.112.29                 githubapp.com
-140.82.113.3                  github.com
+140.82.112.4                  github.com
 
 # GitHubHosts End
 
