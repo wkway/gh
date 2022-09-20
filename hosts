@@ -1,7 +1,7 @@
 # GitHubHosts Start
 140.82.113.3                  alive.github.com
 140.82.113.3                  live.github.com
-3.93.42.63                    github.githubassets.com
+3.236.145.94                  github.githubassets.com
 140.82.113.3                  central.github.com
 199.232.68.133                desktop.githubusercontent.com
 140.82.113.3                  assets-cdn.github.com
@@ -31,7 +31,7 @@
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
-140.82.114.18                 github.community
+140.82.113.17                 github.community
 52.224.38.193                 github.dev
 140.82.113.3                  collector.github.com
 199.232.68.133                pipelines.actions.githubusercontent.com
@@ -40,7 +40,7 @@
 199.232.68.133                objects.githubusercontent.com
 140.82.113.3                  documentcloud.github.com
 199.232.68.133                gist.githubusercontent.com
-35.175.142.90                 github.githubassets.com
+52.207.192.124                github.githubassets.com
 140.82.113.3                  help.github.com
 140.82.113.3                  nodeload.github.com
 140.82.113.3                  status.github.com
