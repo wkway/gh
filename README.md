@@ -1,10 +1,10 @@
 
-###  2022-09-26T09:59:04+08:00
+###  2022-09-26T12:30:35+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.4                  alive.github.com
 140.82.114.4                  live.github.com
-18.206.150.119                github.githubassets.com
+34.204.180.123                github.githubassets.com
 140.82.114.4                  central.github.com
 185.199.109.133               desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
@@ -43,7 +43,7 @@
 185.199.109.133               objects.githubusercontent.com
 140.82.114.4                  documentcloud.github.com
 185.199.109.133               gist.githubusercontent.com
-44.202.233.224                github.githubassets.com
+3.85.218.91                   github.githubassets.com
 140.82.114.4                  help.github.com
 140.82.114.4                  nodeload.github.com
 140.82.114.4                  status.github.com
