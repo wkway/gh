@@ -1,9 +1,11 @@
 
-###  2022-11-12T14:24:10+08:00
+###  2022-11-12T16:22:57+08:00
 ```bash
 # GitHubHosts Start
-192.0.66.2                    github.blog
-52.224.38.193                 github.dev
+140.82.112.4                  github.com
+199.232.68.133                user-images.githubusercontent.com
+199.232.68.133                avatars5.githubusercontent.com
+140.82.112.4                  github.com
 
 # GitHubHosts End
 
