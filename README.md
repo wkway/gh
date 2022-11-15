@@ -1,8 +1,8 @@
 
-###  2022-11-15T14:22:11+08:00
+###  2022-11-16T04:19:41+08:00
 ```bash
 # GitHubHosts Start
-54.221.87.141                 pipelines.actions.githubusercontent.com
+140.82.112.4                  central.github.com
 
 # GitHubHosts End
 
