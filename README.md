@@ -1,8 +1,8 @@
 
-###  2022-11-17T11:14:36+08:00
+###  2022-11-17T14:21:59+08:00
 ```bash
 # GitHubHosts Start
-140.82.112.4                  collector.github.com
+72.21.206.80                  github-com.s3.amazonaws.com
 
 # GitHubHosts End
 
