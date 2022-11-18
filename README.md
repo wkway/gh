@@ -1,8 +1,8 @@
 
-###  2022-11-18T22:18:10+08:00
+###  2022-11-19T04:18:54+08:00
 ```bash
 # GitHubHosts Start
-140.82.113.3                  training.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 
 # GitHubHosts End
 
