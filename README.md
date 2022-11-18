@@ -1,8 +1,8 @@
 
-###  2022-11-17T18:19:20+08:00
+###  2022-11-18T11:15:32+08:00
 ```bash
 # GitHubHosts Start
-54.158.226.49                 github.githubassets.com
+140.82.114.4                  help.github.com
 
 # GitHubHosts End
 
