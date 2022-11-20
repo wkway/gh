@@ -1,8 +1,9 @@
 
-###  2022-11-20T09:38:15+08:00
+###  2022-11-20T12:23:22+08:00
 ```bash
 # GitHubHosts Start
-54.234.81.78                  desktop.githubusercontent.com
+140.82.113.4                  assets-cdn.github.com
+140.82.113.4                  codeload.github.com
 
 # GitHubHosts End
 
