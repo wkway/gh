@@ -1,8 +1,8 @@
 
-###  2022-11-21T02:20:48+08:00
+###  2022-11-21T11:17:17+08:00
 ```bash
 # GitHubHosts Start
-140.82.114.3                  pages.github.com
+140.82.112.4                  github.com
 
 # GitHubHosts End
 
