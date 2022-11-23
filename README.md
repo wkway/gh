@@ -1,9 +1,8 @@
 
-###  2022-11-24T00:28:46+08:00
+###  2022-11-24T06:16:27+08:00
 ```bash
 # GitHubHosts Start
-140.82.114.18                 github.community
-3.80.21.101                   media.githubusercontent.com
+140.82.113.3                  customer-stories-feed.github.com
 
 # GitHubHosts End
 
