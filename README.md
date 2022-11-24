@@ -1,8 +1,8 @@
 
-###  2022-11-24T09:23:28+08:00
+###  2022-11-24T10:54:15+08:00
 ```bash
 # GitHubHosts Start
-140.82.112.29                 githubapp.com
+140.82.113.3                  documentcloud.github.com
 
 # GitHubHosts End
 
