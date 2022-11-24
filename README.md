@@ -1,9 +1,9 @@
 
-###  2022-11-24T16:21:43+08:00
+###  2022-11-24T18:19:40+08:00
 ```bash
 # GitHubHosts Start
-140.82.114.4                  collector.github.com
-140.82.112.29                 githubapp.com
+151.101.1.6                   github.map.fastly.net
+140.82.114.3                  documentcloud.github.com
 
 # GitHubHosts End
 
