@@ -1,5 +1,5 @@
 
-###  2023-04-30T20:24:27+08:00
+###  2023-04-30T22:11:55+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.4                  alive.github.com
@@ -23,7 +23,6 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.17                 github.community
-52.224.38.193                 github.dev
 140.82.114.4                  collector.github.com
 140.82.114.4                  documentcloud.github.com
 140.82.113.4                  github.githubassets.com
