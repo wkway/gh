@@ -1,5 +1,5 @@
 
-###  2023-06-09T16:17:24+08:00
+###  2023-06-09T20:27:02+08:00
 ```bash
 # GitHubHosts Start
 140.82.113.4                  alive.github.com
@@ -31,6 +31,7 @@
 140.82.113.4                  training.github.com
 140.82.113.4                  customer-stories-feed.github.com
 140.82.113.4                  pages.github.com
+140.82.112.29                 githubapp.com
 140.82.113.4                  github.com
 
 # GitHubHosts End
